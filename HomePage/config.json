@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "XuHui",
+		"description": "Author:XuHui,Category:Personal Blog",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "XuHui",
+		"subtitle": "Front back left right end engineer",
+		"enter": "enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "SimonAKing",
+		"signature": "Code & Input & Output",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "blog/",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "about/",
+				"icon": "xiaolian",
+				"text": "About"
+			},
+			"third": {
+				"href": "mailto:261993134@qq.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"fourth": {
+				"href": "https://github.com/xuhui54",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
